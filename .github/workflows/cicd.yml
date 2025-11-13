@@ -25,3 +25,4 @@ jobs:
     - name: List Files
       run: |
        echo "Terry is teaching"
+       cd ls
